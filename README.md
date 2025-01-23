@@ -35,11 +35,11 @@ Follow these steps to set up the project locally:
 
 ###  Clone the Repository
 
-`git clone https://github.com/your-username/your-repository.git`
+`git clone https://github.com/123SadiaHaleema/diabaties-prediction-using-machine-learning.git`
 
 ###  Navigate to the Project Directory
 
-cd your-repository
+cd /diabaties-prediction-using-machine-learning
 
 ###  Install Required Dependencies
 Make sure you have Python installed. Then, run:
