@@ -39,7 +39,7 @@ Follow these steps to set up the project locally:
 
 ###  Navigate to the Project Directory
 
-cd /diabaties-prediction-using-machine-learning
+`cd /diabaties-prediction-using-machine-learning`
 
 ###  Install Required Dependencies
 Make sure you have Python installed. Then, run:
