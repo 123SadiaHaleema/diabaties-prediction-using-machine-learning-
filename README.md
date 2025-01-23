@@ -1,10 +1,17 @@
-#Diabetes Prediction Web App
+#  Diabetes Prediction Web App
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
 
-##Description
+##  Description
 
 This project is a Flask-based web application designed to predict the likelihood of diabetes based on user-provided health parameters. The app uses a machine learning model (Decision Tree Classifier) trained on the Pima Indians Diabetes dataset to make predictions. It offers a simple and intuitive interface for users to interact with.
 
-##Features
+##  Features
 
 Interactive User Interface: Easy-to-use web form for inputting health data.
 
@@ -14,7 +21,7 @@ Machine Learning Backend: Built using a trained Decision Tree Classifier with pr
 
 Responsive Design: Works seamlessly on various devices.
 
-##Technologies Used
+##  Technologies Used
 
 Backend: Flask, Pandas, Scikit-learn
 
@@ -22,28 +29,32 @@ Frontend: HTML, CSS, JavaScript
 
 Dataset: Pima Indians Diabetes Dataset
 
-##Installation
+##  Installation
 
 Follow these steps to set up the project locally:
 
-###Clone the Repository
+###  Clone the Repository
 
-git clone https://github.com/your-username/your-repository.git
+`git clone https://github.com/your-username/your-repository.git`
 
-###Navigate to the Project Directory
+###  Navigate to the Project Directory
 
 cd your-repository
 
-###Install Required Dependencies
+###  Install Required Dependencies
 Make sure you have Python installed. Then, run:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
-###Run the Application
+###  Run the Application
 Start the Flask development server:
 
-python app.py
+`python app.py`
 
-###Access the Application
+###  Access the Application
 Open your browser and visit:
-http://127.0.0.1:5000
+
+`http://127.0.0.1:5000`
+
+##  Usage
+##  Screenshots
