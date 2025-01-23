@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/result.css') }}">
+    <title>Diabetes Prediction Result</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Diabetes Prediction Result</h1>
+        <div class="result">{{ prediction_text }}</div>
+        <div class="button-container">
+            <a class="button" href="/">Test Again</a>
+        </div>
+    </div>
+</body>
+</html>
