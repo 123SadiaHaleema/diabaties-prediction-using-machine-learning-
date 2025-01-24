@@ -58,3 +58,8 @@ Open your browser and visit:
 
 ##  Usage
 ##  Screenshots
+
+<img width="960" alt="diabetes" src="https://github.com/user-attachments/assets/c390be29-51f0-483f-a95e-1155be7baf83" />
+
+![image](https://github.com/user-attachments/assets/fd41732c-8946-41cf-af5a-e97a78edaf42)
+
